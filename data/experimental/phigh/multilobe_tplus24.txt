@@ -1,0 +1,3 @@
+Forecast (+24h) valid: 2026-09-27 12:00 UTC / 2026-09-27 02:00 HST
+  Lobes detected: 1 (ranked by along-axis PGF)
+  [1] 37.25°N, 150.25°W | 1025.5 mb | Δ1@1024.5 | PGF 7.26 mb/1000 km (along 4.86 mb/1000 km) → Vg(total) 22.6 kt; Vg(along) 15.1 kt (PGF align cos=0.67) | angle eff 48°
