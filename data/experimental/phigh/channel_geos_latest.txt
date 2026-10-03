@@ -1,0 +1,6 @@
+Latest valid: 2026-10-03 12:00 UTC / 2026-10-03 02:00 HST
+  Channel-point geostrophic (from PRMSL plane fit)
+    (All directions in degrees true; Isobars ~ ≈ geostrophic to-direction + 90°; channel axis ~066°/246° T)
+    Speed: 14.6 kt | Dir (from): 107° true | Angle to axis: 41° | Isobars ~17° true | Alignment: Moderate
+    Components (kt): along-axis≈10.9, across-axis≈9.6
+  Fit diag: n=97, ocean=67% | R²=0.91, RMS=0.16 hPa, cond=4.27e+04 | stability: Vg±0.2 kt, angle±0° | Quality: Moderate

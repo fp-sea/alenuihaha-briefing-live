@@ -1,0 +1,41 @@
+FZHW60 PHFO 031512
+OFFHFO
+
+Offshore Waters Forecast for Hawaii
+National Weather Service Honolulu HI
+512 AM HST Sat Oct 3 2026
+
+Hawaiian offshore waters beyond 40 nautical miles out to 240
+nautical miles including the portion of the Papahanaumokuakea
+Marine National Monument east of French Frigate Shoals
+
+Seas given as significant wave height, which is the average height
+of the highest 1/3 of the waves. Individual waves may be more than
+twice the significant wave height.
+
+PHZ105-032230-
+512 AM HST Sat Oct 3 2026
+
+.Synopsis for the Hawaiian offshore waters...
+Southeasterly winds become east to northeasterly and strengthen
+as trade winds return through Saturday night. Winds diminish and
+veer southeasterly again mid-week.   
+
+$$
+
+PHZ180-032230-
+Hawaiian Offshore Waters-
+512 AM HST Sat Oct 3 2026
+
+.TODAY...NW Half, E to SE winds 10 to 15 kt. SE Half, NE to E 
+winds 10 to 20 kt. Seas 6 to 7 ft.
+.TONIGHT AND SUNDAY...NE to E winds 10 to 20 kt. Seas 6 to
+7 ft.
+.SUNDAY...NE winds 15 to 25 kt. Seas 6 to 7 ft. 
+.SUNDAY NIGHT AND MONDAY...NE winds 15 to 25 kt. Seas 6 to 8 ft.
+.TUESDAY...NE to E winds 10 to 15 kt. Seas 6 to 7 ft. 
+.WEDNESDAY...E to SE winds 10 to 15 kt. Seas 6 to 7 ft.  
+
+$$
+
+

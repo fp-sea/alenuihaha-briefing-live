@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Guide: Alenuihāhā Channel briefing</title><script>
+(function(){try{var p=JSON.parse(localStorage.getItem('prefs')||'{}')||{};
+if(p.theme==='dark'||p.theme==='light')document.documentElement.setAttribute('data-theme',p.theme);}catch(e){}})();
+</script><style>
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#f3f5f8;color:#1f2933;line-height:1.55}
+.g-wrap{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:250px minmax(0,1fr);gap:24px;padding:16px}
+@media (max-width:860px){.g-wrap{grid-template-columns:1fr}.g-toc{position:static;max-height:none}}
+.g-toc{position:sticky;top:12px;align-self:start;max-height:calc(100vh - 24px);overflow:auto;font-size:13.5px;
+  background:#fff;border:1px solid #e1e5ea;border-radius:10px;padding:10px 12px}
+.g-toc a{display:block;color:#1d5fa8;text-decoration:none;padding:2px 0}.g-toc b{display:block;margin:8px 0 2px;font-size:12px;color:#5f6b76;text-transform:uppercase;letter-spacing:.04em}
+main{background:#fff;border-radius:10px;padding:18px 24px 40px;min-width:0}
+h1{font-size:26px;margin:4px 0 8px}h2{font-size:21px;margin:34px 0 8px;padding-top:6px;border-top:1px solid #e1e5ea}
+h3{font-size:17px;margin:24px 0 6px}
+.g-nav{font-size:14px;margin:0 0 10px}.g-nav a{margin-right:14px;color:#1d5fa8}
+.g-part{margin:6px 0 4px}.g-part>b{font-size:13px;color:#5f6b76;text-transform:uppercase;letter-spacing:.04em;display:block;margin-top:10px}
+.g-learn{border-left:4px solid #2f855a;background:#eef8f1;padding:8px 12px;border-radius:0 6px 6px 0;margin:10px 0}
+.g-limits{border-left:4px solid #b7791f;background:#fdf6e7;padding:8px 12px;border-radius:0 6px 6px 0;margin:10px 0}
+.g-warn{border-left:4px solid #c0392b;background:#fdeceb;padding:8px 12px;border-radius:0 6px 6px 0}
+table.g-t{border-collapse:collapse;font-size:14px;margin:8px 0}.g-t th,.g-t td{border:1px solid #e1e5ea;padding:5px 8px;text-align:left;vertical-align:top}
+dl.g-gl dt{font-weight:600;margin-top:8px}dl.g-gl dd{margin:0 0 0 0;color:#3d4852}
+code{font-size:13px;background:#f1f3f5;padding:1px 4px;border-radius:3px}
+html[data-theme="dark"] body{background:#0f141a;color:#d8dee6}html[data-theme="dark"] main,html[data-theme="dark"] .g-toc{background:#161c24;border-color:#2c3643}
+html[data-theme="dark"] a,html[data-theme="dark"] .g-toc a,html[data-theme="dark"] .g-nav a{color:#7cb7ff}
+html[data-theme="dark"] h2,html[data-theme="dark"] .g-t th,html[data-theme="dark"] .g-t td{border-color:#2c3643}
+html[data-theme="dark"] .g-learn{background:#15261c}html[data-theme="dark"] .g-limits{background:#2a2213}html[data-theme="dark"] .g-warn{background:#2a1716}
+html[data-theme="dark"] code{background:#1f2833}html[data-theme="dark"] dl.g-gl dd{color:#b8c2cc}
+@media (prefers-color-scheme: dark){html:not([data-theme="light"]) body{background:#0f141a;color:#d8dee6}
+html:not([data-theme="light"]) main,html:not([data-theme="light"]) .g-toc{background:#161c24;border-color:#2c3643}
+html:not([data-theme="light"]) a,html:not([data-theme="light"]) .g-toc a,html:not([data-theme="light"]) .g-nav a{color:#7cb7ff}
+html:not([data-theme="light"]) h2,html:not([data-theme="light"]) .g-t th,html:not([data-theme="light"]) .g-t td{border-color:#2c3643}
+html:not([data-theme="light"]) .g-learn{background:#15261c}html:not([data-theme="light"]) .g-limits{background:#2a2213}
+html:not([data-theme="light"]) .g-warn{background:#2a1716}html:not([data-theme="light"]) code{background:#1f2833}
+html:not([data-theme="light"]) dl.g-gl dd{color:#b8c2cc}}
+
+.theme-toggle{position:fixed;top:10px;right:12px;z-index:50;font:inherit;font-size:13px;padding:5px 12px;
+  border:1px solid #c3cad3;border-radius:16px;background:#fff;color:#222;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.12)}
+@media print{.theme-toggle{display:none}}
+
+html[data-theme="dark"]{color-scheme:dark}
+html[data-theme="dark"] body{background:#0f141a;color:#d8dee6}
+html[data-theme="dark"] h1{color:#e6edf3}
+html[data-theme="dark"] .muted{color:#aab4bf}
+html[data-theme="dark"] a{color:#7cb7ff}
+html[data-theme="dark"] .cmp-bar{background:#0f141a;border-bottom-color:#2c3643}
+html[data-theme="dark"] .cmp-bar button,html[data-theme="dark"] .cmp-ctl button,html[data-theme="dark"] .cmp-pick select,html[data-theme="dark"] .cmp-pick button,html[data-theme="dark"] .theme-toggle{background:#1c2430;border-color:#3a4656;color:#d8dee6}
+html[data-theme="dark"] .cmp-bar button.on{background:#4ea3e6;border-color:#4ea3e6;color:#0f141a}
+html[data-theme="dark"] .cmp-cell,html[data-theme="dark"] details.runs{background:#161c24;border-color:#2c3643}
+html[data-theme="dark"] .cmp-slot{background:#1c2430}
+html[data-theme="dark"] .cmp-slot img,html[data-theme="dark"] .cmp-legend{filter:brightness(.9) contrast(1.02)}
+html[data-theme="dark"] .cmp-lead,html[data-theme="dark"] .cmp-empty{color:#9aa7b4}
+html[data-theme="dark"] .cmp-badge{background:rgba(22,28,36,.92);border-color:#3a4656;color:#d8dee6}
+html[data-theme="dark"] .cmp-range{accent-color:#4ea3e6}
+html[data-theme="dark"] table.runs td{border-bottom-color:#2c3643}
+html[data-theme="dark"] table.runs th{background:#23507a}
+html[data-theme="dark"] body.embed{background:#161c24}
+
+@media (prefers-color-scheme: dark){
+
+html:not([data-theme="light"]){color-scheme:dark}
+html:not([data-theme="light"]) body{background:#0f141a;color:#d8dee6}
+html:not([data-theme="light"]) h1{color:#e6edf3}
+html:not([data-theme="light"]) .muted{color:#aab4bf}
+html:not([data-theme="light"]) a{color:#7cb7ff}
+html:not([data-theme="light"]) .cmp-bar{background:#0f141a;border-bottom-color:#2c3643}
+html:not([data-theme="light"]) .cmp-bar button,html:not([data-theme="light"]) .cmp-ctl button,html:not([data-theme="light"]) .cmp-pick select,html:not([data-theme="light"]) .cmp-pick button,html:not([data-theme="light"]) .theme-toggle{background:#1c2430;border-color:#3a4656;color:#d8dee6}
+html:not([data-theme="light"]) .cmp-bar button.on{background:#4ea3e6;border-color:#4ea3e6;color:#0f141a}
+html:not([data-theme="light"]) .cmp-cell,html:not([data-theme="light"]) details.runs{background:#161c24;border-color:#2c3643}
+html:not([data-theme="light"]) .cmp-slot{background:#1c2430}
+html:not([data-theme="light"]) .cmp-slot img,html:not([data-theme="light"]) .cmp-legend{filter:brightness(.9) contrast(1.02)}
+html:not([data-theme="light"]) .cmp-lead,html:not([data-theme="light"]) .cmp-empty{color:#9aa7b4}
+html:not([data-theme="light"]) .cmp-badge{background:rgba(22,28,36,.92);border-color:#3a4656;color:#d8dee6}
+html:not([data-theme="light"]) .cmp-range{accent-color:#4ea3e6}
+html:not([data-theme="light"]) table.runs td{border-bottom-color:#2c3643}
+html:not([data-theme="light"]) table.runs th{background:#23507a}
+html:not([data-theme="light"]) body.embed{background:#161c24}
+
+}</style></head>
+<body><button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">Dark</button><div class="g-wrap">
+<nav class="g-toc" aria-label="Contents"><b>Start here</b><a href="#start-order">A reading order for a crossing</a><a href="#start-conventions">Times, units and colours</a><b>The channel</b><a href="#channel-why">Why the channel is windy</a><a href="#channel-ingredients">The ingredients the briefing watches</a><a href="#channel-areas">The channel areas</a><b>The briefing, section by section</b><a href="#outlook">Channel outlook</a><a href="#sky">Sun and moon, and the sky line</a><a href="#verify-strip">The forecast check strip and ASCAT card</a><a href="#sources">Sources: issue, valid and expiry times</a><a href="#opc">Pacific charts (OPC chart matrix)</a><a href="#hfo-sa">NWS Honolulu North Pacific surface analysis</a><a href="#high-seas">High Seas Forecast</a><a href="#goes">Satellite imagery (GOES-West)</a><a href="#afd">Regional forecasts and discussions</a><a href="#zones">Local marine zone forecasts</a><a href="#radar">Kamuela radar (PHKM)</a><a href="#model-compare">Model comparison: forecast wind by area</a><a href="#refs">REFS ensemble by area</a><a href="#ascat">ASCAT satellite winds</a><a href="#exp-synoptic">Channel analysis: the Pacific High</a><a href="#exp-channel-geos">Channel analysis: local isobar field</a><a href="#exp-local-gradient">Channel analysis: pressure gradient across the channel (stations)</a><a href="#exp-regional-gradient">Channel analysis: pressure gradient across the islands (buoys) and the inflow</a><a href="#exp-twi">Channel analysis: the trade-wind inversion (Hilo soundings)</a><b>The other pages</b><a href="#maps">Model wind maps (models.html) and REFS maps (refs.html)</a><a href="#verify">Verification (verify.html)</a><b>Reference</b><a href="#glossary">Glossary</a><a href="#credits">Sources and credits</a></nav>
+<main>
+<p class="g-nav"><a href="report.html">← Back to the briefing</a><a href="models.html">Wind maps</a><a href="refs.html">REFS maps</a><a href="verify.html">Verification</a></p>
+<h1>Guide to the Alenuihāhā Channel briefing</h1>
+
+<p>This briefing gathers what is known about the wind in the <b>Alenuihāhā Channel</b>, the 25 nm gap between Maui
+and the Big Island, into one page built twice a day (about 06:30 and 18:30 HST). It puts the official NWS forecasts
+next to several weather models, the observations that show what is actually happening, and an analysis of what drives
+the channel wind, and then checks the forecasts against satellite measurements.</p>
+<p class="g-warn"><b>It is not an official forecast.</b> It is meant for study, learning and awareness. Always read the
+NWS Honolulu forecasts and warnings, check each product's issue and valid time, and make your own decision.</p>
+
+<p class="mc-dim">What every part of the briefing shows, where its data comes from, how it is made, what it assumes and
+where it can mislead, with notes on the weather behind it. Built with the briefing of Sat 03 Oct 2026 06:30 HST.</p>
+<h2 id="start">Start here</h2><h3 id="start-order">A reading order for a crossing</h3><ol>
+<li><b>Channel outlook</b>: the headline answer: what NWS and the models expect mid-channel and at the departure,
+and how sure they are.</li>
+<li><b>Sources</b>: are the inputs current? A red banner means a critical forecast is out of date.</li>
+<li><b>Local zones</b>: the official PHZ121 (Alenuihāhā Channel) and PHZ123 (Leeward Big Island) forecasts, word for word.</li>
+<li><b>Model comparison</b>: where the models agree or not, hour by hour, for each part of the channel.</li>
+<li><b>Wind maps</b> and <b>REFS maps</b>: where in the channel the strong wind sits, and how uncertain it is.</li>
+<li><b>Channel analysis</b>: why the wind is doing what it is (the high, the pressure gradients, the inversion).</li>
+<li><b>Verification</b>: how well each source has actually done lately, so you know whom to trust.</li>
+</ol><h3 id="start-conventions">Times, units and colours</h3><ul>
+<li><b>Time</b> is Hawaiʻi Standard Time (HST, UTC−10, no daylight saving), usually with UTC (“Z”) beside it.
+The ASCAT image composite is labelled in UTC. “N h ago” ages are recomputed from your device's clock every minute.</li>
+<li><b>Wind</b> is in knots (kt) everywhere; model output in m/s is converted (×1.944). <b>Pressure</b> is in hPa (= mb).
+Distances on the page are nautical miles (1 nm = 1.852 km); heights are metres, with feet on the sounding charts.</li>
+<li><b>Directions</b> are where the wind comes <i>from</i> (true); arrows on charts point <i>downwind</i>. The channel
+axis runs 066°/246°: the trades blow down it from the northeast toward the southwest exit.</li>
+<li><b>Status colours</b>: green = current; amber = late or partly available; red = stale, expired, missing or a warning;
+grey = live or undated. Headline chips: red warning, amber watch or advisory, blue statement.</li>
+<li><b>Wind-speed colours</b> on the maps follow the University of Washington WRF palette in 5 kt bands (“25” means
+22.5–27.5 kt). It is not a smooth ramp: it turns back toward cool colours above 30 kt, so read the legend.</li>
+<li><b>Dark mode</b> follows your device until you pick one with the button. The page's own charts are colour-inverted in
+dark mode; images whose colours carry meaning (satellite, radar, charts, model maps) are only dimmed.</li>
+<li><b>Refresh imagery</b> buttons reload the live NOAA images without rebuilding the page.</li>
+</ul><h2 id="channel">The channel</h2><h3 id="channel-why">Why the channel is windy</h3><p>The Hawaiian Islands sit in the <b>trade winds</b>: the steady northeasterly flow on the southern side of the
+<b>North Pacific (subtropical) High</b>, a large area of high pressure usually centred well north-northeast of the islands.
+Air flows out of the high and, turned by the Earth's rotation, arrives at Hawaiʻi from the east-northeast.</p>
+<p>The islands are tall: Haleakalā on Maui rises to 3,055 m (10,023 ft); Kohala, Mauna Kea and Mauna Loa on the Big
+Island are higher still. The trade-wind layer is usually only 1.5–2.5 km deep, capped by the <b>trade-wind inversion</b>
+(below). Air that meets the mountains cannot go over them easily, so it piles up on the windward side, where pressure
+rises a little, and goes around them. The Alenuihāhā Channel is the gap between two of the tallest obstacles, so the
+flow is squeezed through it: pressure is higher at the windward <b>entrance</b> than in the lee at the <b>exit</b>, and
+the air speeds up down that pressure drop. The result is a <b>gap jet</b>, often 10–15 kt stronger than the open-ocean
+trades, strongest near the narrowest point (the <b>throat</b>, from Upolu Point to the Kaupō–Kīpahulu coast) and fanning
+out downstream along Maui's south coast.</p><h3 id="channel-ingredients">The ingredients the briefing watches</h3><ul>
+<li><b>The Pacific High</b>: its strength and position set how hard the trades blow. A strong high to the north-northeast,
+lined up with the channel, drives the strongest trades.</li>
+<li><b>The pressure gradient across the islands</b> (buoys 51000 to the northeast and 51002 to the southwest): the
+large-scale push.</li>
+<li><b>The pressure gradient across the channel itself</b> (shore stations on both sides): the local push that actually
+drives the jet.</li>
+<li><b>The wind feeding in and out</b>, and whether it is lined up with the channel axis: flow aimed straight down the
+channel funnels through it more readily.</li>
+<li><b>The season</b>: Hawaiʻi has two. In <i>kau</i> (May–October) the Pacific High is strong and far north, the
+trades are steady and the inversion persistent: the channel's windiest, most regular months. In <i>hoʻoilo</i>
+(November–April) the high weakens and shifts south, and fronts, upper-level troughs and kona lows interrupt the trades,
+sometimes reversing them. The verification page groups passes by these two seasons and by the meteorological quarters,
+which separate the spring and autumn transitions.</li>
+<li><b>The trade-wind inversion</b>: a lid on the trade-wind layer. A strong, low lid confines the flow to a thin layer
+that must squeeze through the gap, which speeds it up; a weak or missing one lets it spread upward and weaken.</li>
+</ul><h3 id="channel-areas">The channel areas</h3><div class="g-part"><b>What it shows</b><p>Every chart, map and score uses the same areas, defined once in <code>config/channel_geometry.yaml</code>, so
+that a meteogram, a map and a verification score can never disagree about where an area ends.</p></div><div class="g-part"><b>How it's made</b><p>The <b>throat</b> is the narrowest crossing, Upolu Point (20.263N 155.867W) to the Maui coast between Kaupō and
+Kīpahulu (20.651N 156.048W), about 25 nm. The <b>channel axis</b> runs through its midpoint, perpendicular to it
+(066°/246°). Distances along the axis are measured from the throat, positive downstream (toward the southwest exit).
+All areas are clipped to the NWS marine-zone polygons, so they hold water only.</p>
+<table class="g-t"><tr><th>Area</th><th>Where</th><th>Size</th></tr>
+<tr><td>Channel entrance</td><td>6.5–24 nm upstream of the throat: the windward approach between Hāna and the Kohala/Hāmākua coast</td><td>~600 nm²</td></tr>
+<tr><td>Mid-channel</td><td>The throat itself, ±6.5 nm along the axis</td><td>~370 nm²</td></tr>
+<tr><td>Channel exit</td><td>6.5–24 nm downstream: the outflow along Maui's south coast</td><td>~570 nm²</td></tr>
+<tr><td>Kawaihae / Kohala coast</td><td>The water between the corridor and the Kohala coast, beside mid-channel and the exit</td><td>~180 nm²</td></tr>
+<tr><td>Off Honokōhau Harbor</td><td>Water within 2.7 nm of a point 1.6 nm off the harbour (the departure)</td><td>~17 nm²</td></tr>
+<tr><td>PHZ121, PHZ123</td><td>The NWS zones themselves: Alenuihāhā Channel, Big Island Leeward Waters</td><td></td></tr></table>
+<p>The corridor stops short of the Kohala coast and Kahoʻolawe. Mid-channel is short (±12 km) because the gap is
+narrow only briefly: the water is ~119 km wide 20 km upstream, 47 km at the throat and 90 km 30 km downstream. The
+local projection used for these distances is accurate to well under 1% over the channel.</p></div><div class="g-part"><b>How to read it</b><p>Stars on the areas map mark where each area's NWS point forecast is taken.</p></div><h2 id="briefing">The briefing, section by section</h2><h3 id="outlook">Channel outlook</h3><div class="g-part"><b>What it shows</b><p>The crossing decision at a glance: any NWS headlines, the next three PHZ121 forecast periods, the models' median wind mid-channel now and at its highest over the next 24 and 48 h, the highest off Honokōhau, and how much the models agree. Every figure links to the section it comes from, so the card never becomes a second source of truth.</p></div><div class="g-part"><b>Data and timing</b><p>The PHZ121 and PHZ123 zone forecasts, and the model winds (RRFS, NBM, UH WRF).</p></div><div class="g-part"><b>How it's made</b><ul><li><b>Headlines</b>: every headline in the two zone forecasts, one chip each: red for warnings, amber
+for watches and advisories, blue for statements.</li>
+<li><b>NWS</b>: the three periods starting with the one in force now, as lo–hi kt, gusts and direction, parsed from
+the text (see <a href="#zones">zone forecasts</a>).</li>
+<li><b>Models (median)</b>: at each hour, the median of RRFS (the extended run), NBM and UH WRF over the area's
+average wind, when at least two answer. “Highest next 24 h/48 h” is the largest value of that median series, with its
+time.</li>
+<li><b>Model agreement</b>: how far the last RRFS runs spread (“Runs agree” within 5 kt, “disagree” above 10 kt),
+the chance of 30 kt+ mid-channel from the RRFS ensemble members, and the mean REFS spread over 48 h (see
+<a href="#model-compare">model comparison</a>).</li></ul></div><div class="g-part"><b>How to read it</b><p>Start here, then follow the links for anything that surprises you.</p></div><div class="g-limits"><b>Assumptions and limits.</b> The median is smoothed across models, so its peak is lower than any single model's peak on a gusty or uncertain day. The NWS grid is not in this median (it is in the model-comparison band).</div><h3 id="sky">Sun and moon, and the sky line</h3><div class="g-part"><b>What it shows</b><p>Sunrise, sunset, twilight, local apparent noon and the sun's height then, the moon's phase and rise/set, a spring/neap tide hint and the UV forecast, for mid-channel (the throat) with the Honokōhau difference.</p></div><div class="g-part"><b>Data and timing</b><p>Computed on the page's build machine, no download, except the UV Index (US EPA forecast for ZIP 96755, Kapaʻau).</p></div><div class="g-part"><b>How it's made</b><ul><li>Sunrise and sunset: the US Naval Observatory's “Almanac for Computers” method, sun's centre 90.833°
+from the zenith (refraction and the sun's radius). Civil twilight is the sun 6° down, nautical 12°.</li>
+<li>Local apparent noon: 12:00 minus longitude and the equation of time (NOAA's series). The channel is 6° west of the
+150°W meridian HST keeps time by, so LAN averages about 24 minutes after clock noon (12:07 in early November to
+12:38 in mid February). Noon altitude = 90° − |latitude − declination|.</li>
+<li>Moon: the Astronomical Almanac's low-precision series; a principal phase is named only within about a day of it.
+Moonrise and set are for the upper limb on a sea horizon.</li>
+<li>Tides: “spring” from a day before to three days after new or full moon, “neap” around the quarters. A hint only:
+Hawaiʻi's tides are small (about 2 ft at Kawaihae).</li>
+<li>UV: the EPA's hourly forecast, in WHO bands (low, moderate, high, very high, extreme) with rough burn times.</li></ul></div><div class="g-limits"><b>Assumptions and limits.</b> Times are good to about a minute (sun) or a few minutes (moon). The UV forecast is for North Kohala, not the water, where reflection adds to it.</div><div class="g-learn"><b>Learn.</b> <b>Rule 20</b> of the collision regulations requires navigation lights from <i>sunset</i> to sunrise, not from dark. <b>Civil twilight</b> (~22 minutes here: short near the tropics) is the practical limit for coming in; by <b>nautical dusk</b> the horizon is gone. LAN is the time of a <b>noon sight</b>.</div><h3 id="verify-strip">The forecast check strip and ASCAT card</h3><div class="g-part"><b>What it shows</b><p>One line near the top: how each forecast did against the ASCAT satellite over the last 7 days, forecasts made up to a day ahead. In the ASCAT section, a card with the newest pass and what was forecast for it.</p></div><div class="g-part"><b>How it's made</b><p>Bias is the forecast minus ASCAT, averaged over the passes; “about right” means within 1 kt. For the NWS zone forecast, “right” means the middle of what ASCAT saw fell inside the forecast range. See <a href="#verify">Verification</a> for everything behind it.</p></div><h3 id="sources">Sources: issue, valid and expiry times</h3><div class="g-part"><b>What it shows</b><p>Every input of this build, with its time, age, expiry and a status: is it current, late, stale or missing? A red banner appears if the PHZ121 channel forecast is expired, stale or missing.</p></div><div class="g-part"><b>How it's made</b><p>Each row's time is labelled for what it means: <b>Issued</b> (a forecast), <b>Valid</b> (an analysis),
+<b>Observed</b>, <b>Run</b> (a model run's start), <b>Updated</b> (the NWS grid) or <b>Live</b> (images that load from
+NOAA when you open the page). A product that states its own expiry is judged by it. Otherwise by its normal cadence:
+current if its age is within one cadence plus a margin (usually 6 h), “late: newer issue overdue” within two cadences,
+stale after that. Cadences: High Seas 6 h; discussions, offshore, coastal and zone forecasts 12 h; RRFS extended 6 h,
+latest 3 h; NBM 1 h; REFS 6 h; UH WRF 24 h (+36 h, since PacIOOS posts it about a day late); buoys and stations 1 h;
+Hilo sounding 12 h.</p></div><div class="g-part"><b>How to read it</b><p>Glance at the counts line; open the table when something is amber or red. A stale model row means that model's lines on the comparison are old.</p></div><h3 id="opc">Pacific charts (OPC chart matrix)</h3><div class="g-part"><b>What it shows</b><p>The Ocean Prediction Center's surface analysis and forecasts, 500 mb and wind/wave charts for now and 24–96 h ahead: the Pacific-scale pattern of highs, fronts, upper ridges and troughs, and sea state.</p></div><div class="g-part"><b>Data and timing</b><p>ocean.weather.gov. Surface analysis every 6 h, 500 mb every 12 h, wind/wave once a day (00Z); forecasts from the 00Z and 12Z runs.</p></div><div class="g-part"><b>How it's made</b><p>OPC's fixed “latest” image addresses can keep serving frozen charts (in September 2026 the 72 and 96 h
+surface forecasts had been suspended for weeks while their fixed addresses still showed a 2 September chart). So each
+chart is found in OPC's dated archive for the last 10 days instead; a chart OPC is not issuing shows “Not currently
+issued”, never an old one. Forecasts in one row come from one model run where OPC has posted them. The printed VALID and
+ISSUED times are read off each chart by text recognition; if the chart disagrees with the time expected, the chart wins
+and says so, and an unreadable stamp is shown as “computed”. Each chart is current if within its cadence plus 6 h, late
+within two cadences, stale after (dimmed).</p></div><div class="g-limits"><b>Assumptions and limits.</b> Text recognition can misread a stamp; the cell then says “computed”. OPC posts charts 1.5–5 h after their nominal time.</div><div class="g-learn"><b>Learn.</b> The <b>surface analysis</b> shows the Pacific High's centre and pressure, and fronts approaching from the northwest in winter. The <b>500 mb</b> chart shows the upper-level pattern that steers surface systems: a ridge overhead supports a strong, stable high; an upper trough nearby can weaken the trades and the inversion. The <b>wind/wave</b> chart shows sea state across the basin.</div><h3 id="hfo-sa">NWS Honolulu North Pacific surface analysis</h3><div class="g-part"><b>What it shows</b><p>The Honolulu forecasters' own analysis, which reaches farther into the tropics than OPC's (the ITCZ and the trade-wind belt). Use it for the high, fronts, troughs, lows and gales affecting the islands, and to check the automatic Pacific High analysis.</p></div><div class="g-part"><b>Data and timing</b><p>Loaded live from weather.gov when you open the page (every 6 h).</p></div><h3 id="high-seas">High Seas Forecast</h3><div class="g-part"><b>What it shows</b><p>The NWS high seas forecast for the North Pacific (warnings, synopsis of systems and their movement).</p></div><div class="g-part"><b>Data and timing</b><p>tgftp.nws.noaa.gov, every 6 h (“superseded by next issuance in 6 hours”).</p></div><div class="g-part"><b>How it's made</b><p>Shown as a bulletin card (see <a href="#zones">zone forecasts</a> for how cards work); kept in its original fixed-width layout because the columns carry meaning.</p></div><h3 id="goes">Satellite imagery (GOES-West)</h3><div class="g-part"><b>What it shows</b><p>GOES-18 GeoColor loops for the tropical Pacific and the Hawaiʻi sector: true colour by day, infrared by night.</p></div><div class="g-part"><b>Data and timing</b><p>Loaded live from NOAA/NESDIS STAR each time the page opens.</p></div><div class="g-learn"><b>Learn.</b> Trade-wind days show rows of small cumulus streaming from the east-northeast, clearing in the lee of the big islands. A cloud-free wake downstream of the channel, or cloud lines along it, often mark the jet. Deep cloud bands from the northwest are fronts; the trades usually weaken ahead of them.</div><h3 id="afd">Regional forecasts and discussions</h3><div class="g-part"><b>What it shows</b><p>The NWS Honolulu Area Forecast Discussion (the forecasters' reasoning), the Offshore Waters (40–240 nm) and Statewide Coastal Waters (to 40 nm) forecasts, and the Maunakea Observatories forecast discussion (a second, independent local forecaster's view of the inversion, trades and moisture).</p></div><div class="g-part"><b>Data and timing</b><p>tgftp.nws.noaa.gov (about every 12 h); mkwc.ifa.hawaii.edu (weekdays).</p></div><div class="g-part"><b>How to read it</b><p>The AFD's marine section often says why a Small Craft Advisory is up or coming down, and how confident the forecasters are.</p></div><h3 id="zones">Local marine zone forecasts</h3><div class="g-part"><b>What it shows</b><p>The official NWS forecasts for the zones around the channel: PHZ121 Alenuihāhā Channel and PHZ123 Big Island Leeward Waters open, PHZ117, 118 and 122 folded.</p></div><div class="g-part"><b>Data and timing</b><p>tgftp.nws.noaa.gov, about every 12 h and when amended.</p></div><div class="g-part"><b>How it's made</b><p><b>Bulletin cards</b> (all NWS text products): the issue time from the product's issuance line; the
+expiry from its “Expires” line or its zone code line (e.g. <code>PHZ121-251115-</code> = expires the 25th at 11:15Z);
+headlines as chips; sections as titled blocks; the original text always one tap away.</p>
+<p><b>Reading the numbers</b> (for the outlook, the model chart and verification): periods are placed in time
+(days 06–18 HST, nights 18–06, “rest of today” to 18:00); “25 to 30 knots” is 25–30; “to 30” or “up to 30” is 25–30;
+“less than 10” is 0–10; “around 15” is 13–17; changes such as “rising to 30 kt after midnight” split a period.</p></div><div class="g-limits"><b>Assumptions and limits.</b> A zone forecast gives one range for the whole zone, which also has to cover its windiest corner, so it reads high for much of the zone on a jet day.</div><div class="g-learn"><b>Learn.</b> A <b>Small Craft Advisory</b> in Hawaiʻi is issued for winds of 25–33 kt and/or seas of 10 ft or more; a <b>Gale Warning</b> for 34–47 kt.</div><h3 id="radar">Kamuela radar (PHKM)</h3><div class="g-part"><b>What it shows</b><p>The NWS Doppler radar loop from the Kohala slopes: showers and squall lines near the channel now.</p></div><div class="g-part"><b>Data and timing</b><p>Loaded live from radar.weather.gov.</p></div><h3 id="model-compare">Model comparison: forecast wind by area</h3><div class="g-part"><b>What it shows</b><p>The forecast 10 m wind for each channel area, from every model the briefing reads, on one chart, 3 h back to 72 h ahead.</p></div><div class="g-part"><b>Data and timing</b><table class="g-t"><tr><th>Source</th><th>What it is</th><th>Runs</th></tr>
+<tr><td>RRFS</td><td>NOAA's Rapid Refresh Forecast System, 2.5 km, convection-allowing; the main high-resolution model</td>
+<td>Every 3 h (hourly once operational, 14 Oct 2026). “Extended”: the newest 00/06/12/18Z run, to 84 h; “latest”: a newer
+short (18 h) run when there is one; “last 6 runs”: how the forecast has been shifting</td></tr>
+<tr><td>NBM</td><td>National Blend of Models, 2.5 km: a calibrated blend of many models, not a model of its own</td><td>Hourly, to 72 h</td></tr>
+<tr><td>UH WRF</td><td>University of Hawaiʻi WRF: a 2 km Maui–Oʻahu nest where it covers an area, else 6 km statewide.
+Independent of NCEP. No gusts</td><td>One run a day, 7 days; posted about a day late</td></tr>
+<tr><td>NWS</td><td>NWS Honolulu's gridded forecast: the grid the zone forecasts are written from</td><td>When forecasters update</td></tr>
+<tr><td>REFS, RRFS members</td><td>The RRFS ensemble (see <a href="#refs">REFS</a>)</td><td>00/06/12/18Z</td></tr></table></div><div class="g-part"><b>How it's made</b><ul><li><b>Area values</b>: every model grid point inside the area (water only): <b>mean</b> of the point
+speeds; <b>gust</b> = the 90th percentile of the gust field across the area (the gustier part, not one point);
+<b>direction</b> from the averaged wind vector.</li>
+<li><b>The band</b> is the range (lowest to highest) across the models and the NWS grid at each hour, the <b>grey
+line</b> their median, when at least two answer. The <b>black line</b> is NWS. Short gaps (≤3 h) are bridged.</li>
+<li><b>Direction arrows</b> under the chart: the models' average direction, weighted by speed, pointing downwind.</li>
+<li><b>RRFS run-to-run</b>: over the next 18 h, the worst hour's spread of the last RRFS runs' area means. Runs agree
+≤5 kt, some spread 5–10 kt, disagree &gt;10 kt.</li>
+<li><b>Chance of 30 kt+</b>: from the RRFS ensemble members (below). Red dashed lines mark 25 kt (Small Craft) and
+34 kt (gale).</li>
+<li>On the zone tabs, the <b>NWS zone forecast</b> is drawn as a box per period (its range), a dotted gust line and a
+headline strip.</li></ul></div><div class="g-part"><b>How to read it</b><p>A narrow band and settled runs: a confident forecast. A wide band, or runs that keep shifting: plan for the high side.</p></div><div class="g-limits"><b>Assumptions and limits.</b> The models' grids (2.5–6 km) are coarse next to the channel's coastal detail: the Kohala coast and the Maui lee are where they differ most. UH WRF's run can be a day or more old (check Sources). NBM, being a blend, is smooth and tends to run low in the jet (see Verification).</div><div class="g-learn"><b>Learn.</b> <b>Deterministic</b> models give one answer; an <b>ensemble</b> runs the model many times with small differences to show the range of possibilities. A <b>calibrated blend</b> (NBM) corrects and combines many models. Watching successive runs (<b>run-to-run consistency</b>) is a quick way to judge confidence.</div><h3 id="refs">REFS ensemble by area</h3><div class="g-part"><b>What it shows</b><p>The RRFS ensemble for each area: the ensemble-mean wind with a ±1 spread band, and the chance of 20, 25, 30, 34, 35 or 40 kt.</p></div><div class="g-part"><b>Data and timing</b><p>REFS products from NOMADS (00/06/12/18Z, hourly to 60 h) and the five RRFS ensemble members.</p></div><div class="g-part"><b>How it's made</b><ul><li><b>Spread</b> is the ensemble's standard deviation: roughly two members in three fall inside the band.</li>
+<li><b>Two ways to ask “how likely”</b>, and they are not two opinions: <i>Area average</i> counts, each hour, how many of
+11 answers (the five members of the latest run and of the run 6 h before, plus the deterministic RRFS) put the area's
+average wind at or above 25, 30 or 34 kt. <i>Within ~20 nm (REFS)</i> is NOAA's product: the chance of the threshold
+<i>anywhere within roughly 20 nm</i> of a point, so an area beside the jet can show a high chance while its own average
+stays light.</li></ul></div><div class="g-part"><b>How to read it</b><p>For whether the water you will be on reaches a threshold, the area average is the more direct answer.</p></div><div class="g-limits"><b>Assumptions and limits.</b> REFS's mean wind runs above the individual RRFS winds (about 1 kt mid-channel, up to ~5 kt along the Kohala coast where directions vary): read it as the upper side of typical. Eleven answers make a coarse probability (steps of ~9%).</div><div class="g-learn"><b>Learn.</b> <b>Neighbourhood probability</b> answers “could it happen near here”; <b>area probability</b> answers “will it happen here”. Using the previous run too (<b>time-lagging</b>) is a cheap way to widen an ensemble.</div><h3 id="ascat">ASCAT satellite winds</h3><div class="g-part"><b>What it shows</b><p>The latest coastal ASCAT wind images over the islands (up to 12 passes from the last 3 days) and, above them, the forecast check for the newest pass.</p></div><div class="g-part"><b>Data and timing</b><p>NOAA/NESDIS STAR's coastal ultra-high-resolution images, from EUMETSAT's MetOp-B and MetOp-C.</p></div><div class="g-limits"><b>Assumptions and limits.</b> Times on the images are UTC. Not every pass covers the channel.</div><div class="g-learn"><b>Learn.</b> <b>ASCAT</b> is a radar scatterometer: it measures how rough the sea surface is and turns that into the 10 m wind, in 12.5 km cells, about twice a day here (around 09–10 and 20–22 HST). It is the only measurement that sees the whole channel at once, which is why the briefing verifies against it.</div><h3 id="exp-synoptic">Channel analysis: the Pacific High</h3><div class="g-part"><b>What it shows</b><p>The high-pressure centres (“lobes”) of the North Pacific High now, 24 h ago and in 24 and 48 h, ranked by how hard each pushes toward the channel.</p></div><div class="g-part"><b>Data and timing</b><p>GFS sea-level pressure (0.25°, 1° fallback) through NOMADS, every 6 h.</p></div><div class="g-part"><b>How it's made</b><ul><li>Candidate centres: connected areas within 12 hPa of the domain's highest pressure (25–50N,
+125–180W). Each lobe's size is the closed isobar around its centre, 1–16 hPa below it, sized to between
+0.6 and 12 million km² (the red outline). Island-sized artefacts and edge maxima are rejected.</li>
+<li><b>Gradient</b> toward the channel = (centre pressure − pressure at the channel) ÷ distance, per 1000 nm.</li>
+<li><b>Alignment</b>: the angle between the direction from the high to the channel and the channel axis.</li>
+<li><b>Push along the axis</b>: the geostrophic wind that gradient implies (air density 1.225 kg/m³, Coriolis at the
+channel's latitude), resolved along the axis. Lobes are ranked by gradient × alignment.</li></ul></div><div class="g-limits"><b>Assumptions and limits.</b> The gradient is a straight-line average over 1,000–2,000 nm, not the local gradient, and “push along the axis” is an index of forcing, not a wind you will see.</div><div class="g-learn"><b>Learn.</b> A high well to the north-northeast, strong and lined up with the channel, sets up strong trades; a high that weakens, retreats or is displaced by a front weakens them.</div><h3 id="exp-channel-geos">Channel analysis: local isobar field</h3><div class="g-part"><b>What it shows</b><p>The GFS pressure field over a ~180 nm box around the channel, and the geostrophic wind it implies.</p></div><div class="g-part"><b>How it's made</b><p>A flat plane is fitted to the GFS sea-level pressure over water within ±1.5° of the throat (least
+squares). Its slope gives the pressure gradient; the geostrophic wind follows from it (air density 1.225 kg/m³,
+Coriolis at the channel's latitude), with its direction, its angle to the axis and the part along it. The fit's quality
+(R², points, ocean share, stability when points are dropped) is graded High, Moderate or Low.</p></div><div class="g-limits"><b>Assumptions and limits.</b> One value for the whole box: differences between entrance, throat and exit come from the high-resolution models. Geostrophic wind ignores friction and the terrain's squeeze, so the real channel wind can be well above or below it.</div><div class="g-learn"><b>Learn.</b> <b>Geostrophic balance</b>: away from the ground, the pressure-gradient force is balanced by the Coriolis force, so the wind blows along the isobars, faster where they are closer. It weakens toward the equator and breaks down near terrain, which is exactly what happens in the channel.</div><h3 id="exp-local-gradient">Channel analysis: pressure gradient across the channel (stations)</h3><div class="g-part"><b>What it shows</b><p>The pressure drop measured across the channel by shore stations, over the last 48 h, with RRFS's forecast for the next 48 h.</p></div><div class="g-part"><b>Data and timing</b><p>PHOG (Kahului), 023HI (Hamoa, near Hāna), 075HI (Iole, near Upolu Point), Kawaihae harbour (NOAA tide gauge), PHKO (Kona) and PHNY (Lānaʻi): NWS, Hawaiʻi Mesonet and NOAA CO-OPS, hourly.</p></div><div class="g-part"><b>How it's made</b><ul><li>Each hour, a plane is fitted through the stations' sea-level pressures (at least four needed).</li>
+<li><b>Self-calibration</b>: each station's average misfit over the last five days is treated as a fixed offset
+(sensor height, reduction to sea level, calibration) and removed, then the plane is fitted again.</li>
+<li><b>Drop toward the exit</b>: how fast pressure falls along the axis toward 246°, per 100 nm.</li>
+<li><b>Channel-wind potential</b>: the speed air would reach running down that drop over the ~49 nm from entrance to
+exit, √(2Δp/ρ) (Bernoulli, ρ = 1.2 kg/m³).</li>
+<li>RRFS's forecast uses the same fit through its sea-level pressure at the stations (without the observed offsets).</li></ul></div><div class="g-limits"><b>Assumptions and limits.</b> The potential is an upper bound: friction and mixing keep the real wind well below it, but it rises and falls with the forcing. No geostrophic wind is given: this close to the tropics and the islands the local gradient is far from geostrophic balance (it would imply 100+ kt winds that never happen).</div><div class="g-learn"><b>Learn.</b> This is the <b>gap-flow</b> push itself: higher pressure where the trades pile up against Haleakalā and Kohala, lower in the lee. It is steeper than the GFS isobars because GFS's grid cannot resolve the islands' own pressure pattern.</div><h3 id="exp-regional-gradient">Channel analysis: pressure gradient across the islands (buoys) and the inflow</h3><div class="g-part"><b>What it shows</b><p>The pressure difference between buoys 51000 (northeast) and 51002 (southwest), ~450 nm apart, and the wind at each: the trade flow going in and coming out, and how well it lines up with the channel.</p></div><div class="g-part"><b>Data and timing</b><p>NDBC, hourly, last 24 h.</p></div><div class="g-part"><b>How it's made</b><p>Gradient = difference ÷ distance; geostrophic wind from it (air density 1.22 kg/m³, Coriolis at the buoys' mean latitude). Alignment = the acute angle between the buoy wind and the channel axis (0° = straight down it; within 15° is well lined up).</p></div><div class="g-limits"><b>Assumptions and limits.</b> It assumes the whole difference lies along the line between the buoys, so it gives the size of the push, not its direction.</div><h3 id="exp-twi">Channel analysis: the trade-wind inversion (Hilo soundings)</h3><div class="g-part"><b>What it shows</b><p>The inversion in the last four Hilo weather-balloon launches: its base and top (m and ft), how sharply it warms and dries, a strength index, the 925–850 hPa wind, and Skew-T diagrams.</p></div><div class="g-part"><b>Data and timing</b><p>Hilo (91285) radiosonde, launched at 00Z and 12Z (2 pm and 2 am HST). Newest launches from the University of Wyoming; older ones from the Iowa Environmental Mesonet archive. Kept once fetched.</p></div><div class="g-part"><b>How it's made</b><ul><li>Search 950–600 hPa (below ~4 km) for a layer that warms and dries upward: net warming ≥0.8 °C,
+potential temperature rising ≥0.7 K, relative humidity falling ≥8%, 80–1,200 m thick. Among candidates, the one with the
+biggest drying wins.</li>
+<li><b>Strength index (0–10)</b> = 10·tanh(x/d), with x = (Δθ/2.5 K)·(ΔT/2.4 °C)·(ΔRH/45%) and d = thickness/300 m + 0.4:
+it favours sharp, dry layers of moderate thickness.</li>
+<li><b>925–850 hPa wind</b>: the 75th percentile of the balloon's wind in that layer (the top of the trade-wind layer).</li>
+<li><b>Risk</b>: High = strength ≥6 and wind ≥30 kt; Medium for combinations of strength ≥3 with wind ≥23–30 kt;
+otherwise Low.</li>
+<li>The Skew-T is drawn from the same data: temperature red, dew point green, the inversion shaded.</li></ul></div><div class="g-part"><b>How to read it</b><p>Supportive lids usually have a base near 1.5–2.5 km, are 100–600 m thick, warm by 2 K or more and dry by 15–30% or more.</p></div><div class="g-limits"><b>Assumptions and limits.</b> Hilo is one point, about 60 nm from the channel on the windward side, and a launch is up to 12 h old. The strength index is this briefing's own scale.</div><div class="g-learn"><b>Learn.</b> The <b>trade-wind inversion</b> forms where air sinking in the Pacific High (and warming as it sinks) meets the cool, moist air of the trade-wind layer. On a <b>Skew-T</b>, it shows as the temperature line bending to the right (warming with height) while the dew point falls away (drying). <b>Potential temperature</b> (θ) rising sharply with height means a stable layer that air cannot easily cross, which is what confines the trades and squeezes them through the gap.</div><h2 id="pages">The other pages</h2><h3 id="maps">Model wind maps (models.html) and REFS maps (refs.html)</h3><div class="g-part"><b>What it shows</b><p>Each model's wind over Maui to the Big Island, hour by hour, side by side in 1, 2 or 4 panes. The REFS page shows the ensemble mean, spread and chances of 20–40 kt.</p></div><div class="g-part"><b>How it's made</b><ul><li><b>Colour</b> is wind speed on each model's own grid, every 2.5 km cell as it is, with no smoothing,
+so lee eddies, wake vortices and the gap jet keep their real size. <b>Grey streamlines</b> show direction only.
+<b>Magenta lines</b> are sea-level pressure every 1 hPa (RRFS only, over water: pressure under Mauna Kea is an
+extrapolation).</li>
+<li>Panes are matched on <b>valid time</b>, so runs from different cycles line up. Maps are hourly to 48 h into each
+run, then 3-hourly (REFS hourly to 60 h); at an hour a product lacks, the pane shows its nearest frame and says so.</li>
+<li><b>Blink</b> flips the first pane between the first two choices to show where they differ. Move over or tap a map
+to read the value there. Arrow keys step through the hours.</li>
+<li>The UH WRF 2 km nest covers only north and west of the red dashes; outside it, use UH WRF 6 km.</li></ul></div><div class="g-part"><b>How to read it</b><p>On the REFS maps, a high chance with a small spread is a confident windy forecast; a middling chance with a large spread is a real maybe.</p></div><div class="g-limits"><b>Assumptions and limits.</b> The colour palette is banded, not a smooth ramp (see conventions).</div><h3 id="verify">Verification (verify.html)</h3><div class="g-part"><b>What it shows</b><p>How each forecast compared with what ASCAT measured, pass by pass and over the whole archive, most useful first: a plain-language summary per source and a fair head-to-head; lately (any window from 1 to 30 days); what a forecast has meant (“when it said 15–20 kt, ASCAT measured…”); how big the misses get; the conditions hardest to forecast; where in the channel the misses are; the Small Craft and gale thresholds; then lead time, month by month, every pass, and the methods.</p></div><div class="g-part"><b>Data and timing</b><p>ASCAT (MetOp-B and -C, KNMI 12.5 km coastal product, from NASA PO.DAAC); the NWS zone forecasts (every issue, from the Iowa Environmental Mesonet); NBM (NOAA's AWS archive); RRFS, REFS and UH WRF from the runs this briefing kept; the NWS grid, saved each build. Passes before the briefing ran were added from the public archives, including RRFS's official retrospective runs (July 2023, January–February 2024, May 2024).</p></div><div class="g-part"><b>How it's made</b><ul><li>Each pass's good cells over the PHZ121 zone (cells with no wind, or flagged by KNMI for rain, a failed wind inversion, failed variational or KNMI quality control, beam noise or too few good backscatter values, are removed; land and ice flags only inform); a pass that saw
+at least 60% of the zone is scored.</li>
+<li>Each model is averaged over every ASCAT cell's 12.5 km <b>footprint</b> (about 25 points of a 2.5 km grid), at the
+hour nearest the pass, so a pass that saw part of the zone compares like with like.</li>
+<li><b>Bias</b> = forecast minus ASCAT (red: ran high, blue: low); <b>typical error</b> = mean absolute error;
+lead is measured from each run's start (the zone forecast and NWS grid: from issue); “up to a day ahead”, used by every
+summary, = one run per source and pass, the one made nearest 12 h before (within 0–24 h), never an average of runs.</li>
+<li><b>Lead and time of day</b>: the UH WRF archive has one run a day (06Z) and the RRFS retrospective one (18Z), so for
+them a short lead is always one time of day and a long lead the other. The lead table is therefore split into morning and
+evening passes, and each source's typical lead and share of evening passes is shown with its headline. The same passes
+are also scored at 0–6 h and 18–30 h ahead, so a lead effect is not a sample effect (the zone forecast, for one, over-calls
+more in its last issues than a day out).</li>
+<li><b>What is compared to what</b>: the models against the mean of ASCAT's cells (both over the same cells); the zone
+forecast's range against their median, its top against their 90th percentile; the cell-by-cell scores cell against
+cell.</li>
+<li><b>Head to head</b>: sources are scored on different passes (RRFS mostly on its 2023–24 retrospective runs) and at
+different leads (the UH WRF archive keeps only each run's first hours), so each pair is also compared on only the passes
+and lead windows (0–6, 6–12, 12–24 h) they share, with how often each was the closer.</li>
+<li><b>Reading a forecast</b>: for each forecast speed band (and each zone-forecast range), what ASCAT then measured:
+median, 25th–75th and 90th percentiles over passes, and how often 5+ kt more than forecast. This turns the scores into a correction a
+reader can apply.</li>
+<li>The zone forecast is checked against the middle (median) of what ASCAT saw: within its range, above or below;
+how far outside the range when it missed; its top number against ASCAT's 90th percentile of the zone's cells (P90,
+which a zone forecast has to cover); and its range width. The middle of its range is also scored like a model (“NWS zone
+text (middle)”), so it can be compared with the models everywhere on the page. “To 30 kt” with no lower number is read as
+25–30, and a single number (“20 knots”) as 17.5–22.5.</li>
+<li><b>How big the misses get</b>: averages hide the misses that matter, so each source's whole spread of errors is shown
+as box plots (median, 25th–75th percentile box, 5th–95th percentile whiskers, the extreme passes as dots), a table of how often it under- or
+over-called by 5 and 10 kt and the error it stays within 90% of the time, histograms, and the archive's biggest misses with
+the conditions at the time. “Lately” shows each pass as a dot on a small ±15 kt strip, with the worst miss.</li>
+<li><b>Cell by cell</b>: how often cells were 5+ kt too low or high (a source can look fine on the zone average while a
+fifth of the zone is well off); the same scores in the channel's entrance, mid-channel and exit; the error at each cell,
+the correlation of the forecast pattern with ASCAT's, and how far the forecast's strongest fifth of the zone sits from
+ASCAT's; and error maps, filterable by season, month, wind and inversion.</li>
+<li><b>Thresholds</b>: 25 and 34 kt, caught / missed / false alarm. A zone-forecast headline counts only when its winds
+reach the threshold (advisories for seas alone are left out: ASCAT cannot see seas).</li></ul></div><div class="g-part"><b>How to read it</b><p>Gusts are not verified here: ASCAT measures the sustained wind over each 12.5 km cell, never a gust. The models' gusts are kept with every pass, but there is no measurement of gusts over the channel's water to score them against (shore and land stations sit in their own terrain and don't represent it).</p></div><div class="g-limits"><b>Assumptions and limits.</b> See “What ASCAT can and can't tell us” at the top of the verification page. In short: ASCAT sees one moment around 09–10 and 20–22 HST, never the afternoon peak; many passes see only part of the channel; its own error is about 2–3 kt, so smaller differences are within its uncertainty. It misses cells within a few km of the coast; is spoiled by heavy rain; and tends to read a little low in very strong winds. RRFS, REFS and the NWS grid can be scored only from the runs the briefing kept, so their samples are shorter; archived UH WRF is mostly 1–3 h ahead, which flatters it against sources scored further out (the head-to-head allows for it). Small groups make noisy scores; every figure shows its count.</div><div class="g-learn"><b>Learn.</b> Verification is how forecasters learn a model's habits: a <b>consistent bias</b> (one model always low in the jet) is easy to correct for; a <b>random error</b> is not. The same data could one day train a bias-corrected blend for the channel.</div><p><b>Model versions.</b> Upgrades can change a model's habits, so scores are also split by version: NBM went from v4.3 to v5.0 with the 12Z run of 5 May 2026 (the version is printed in NBM's station bulletins), and RRFS becomes operational on 14 Oct 2026. The month-by-month chart marks each change.</p>
+<h2 id="glossary">Glossary</h2><dl class="g-gl"><dt>AFD</dt><dd>Area Forecast Discussion: the NWS forecasters&#x27; written reasoning.</dd><dt>ASCAT</dt><dd>Advanced Scatterometer on the MetOp satellites: sea-surface wind from radar backscatter, 12.5 km cells.</dd><dt>Bias</dt><dd>Average of forecast minus observed: positive means the forecast runs high.</dd><dt>Correlation (pattern match)</dt><dd>How well two patterns line up: 1 = the stronger and weaker places match exactly, 0 = unrelated.</dd><dt>Ensemble</dt><dd>Many runs of a model with small differences, to show the range of possible outcomes.</dd><dt>Geostrophic wind</dt><dd>The wind that balances the pressure gradient against the Earth&#x27;s rotation; it ignores friction and terrain.</dd><dt>GFS</dt><dd>NOAA&#x27;s Global Forecast System, a worldwide model (0.25°, about 25 km).</dd><dt>Gust</dt><dd>A brief peak above the sustained (average) wind.</dd><dt>HST / Z</dt><dd>Hawaiʻi Standard Time (UTC−10) / UTC.</dd><dt>Inversion</dt><dd>A layer where temperature rises with height: a lid that air cannot easily cross.</dd><dt>Lead time</dt><dd>How long before the valid time a forecast was made.</dd><dt>MAE (typical error)</dt><dd>Mean absolute error: the average size of the miss, whichever way. Misses of +3 and −1 kt give a bias of +1 kt but an MAE of 2 kt.</dd><dt>NBM</dt><dd>National Blend of Models: NOAA&#x27;s calibrated blend of many models.</dd><dt>Nm, kt</dt><dd>Nautical mile (1.852 km); knot (1 nm per hour).</dd><dt>POD / FAR</dt><dd>Probability of detection (share of events caught) / false-alarm ratio (share of warnings with no event).</dd><dt>REFS</dt><dd>The Rapid Refresh Ensemble Forecast System: the RRFS ensemble&#x27;s products.</dd><dt>RMSE</dt><dd>Root-mean-square error: like MAE but weighting big misses more.</dd><dt>RRFS</dt><dd>Rapid Refresh Forecast System: NOAA&#x27;s 2.5 km convection-allowing model, operational from 14 Oct 2026.</dd><dt>Skew-T</dt><dd>A chart of a sounding: temperature and dew point against pressure, with the temperature axis slanted.</dd><dt>Sounding</dt><dd>A weather balloon&#x27;s profile of temperature, humidity and wind with height.</dd><dt>Spread</dt><dd>The ensemble&#x27;s standard deviation: a measure of uncertainty.</dd><dt>Throat</dt><dd>The narrowest part of the channel, Upolu Point to the Kaupō–Kīpahulu coast.</dd><dt>UH WRF</dt><dd>The University of Hawaiʻi&#x27;s run of the WRF model for the islands.</dd><dt>θ (theta)</dt><dd>Potential temperature: the temperature air would have brought down to 1000 hPa; rising θ with height means stable air.</dd></dl>
+<h2 id="credits">Sources and credits</h2><p><b>Credits.</b> Forecasts, charts, observations and model data from NOAA (National Weather Service, Ocean Prediction Center, NCEP, NDBC, NOS CO-OPS), which are not subject to copyright. Satellite imagery: NOAA / NESDIS Center for Satellite Applications and Research (STAR). ASCAT winds: Copyright 2026 EUMETSAT (EUMETSAT OSI SAF / KNMI). UH WRF data provided by PacIOOS (www.pacioos.org), which is a part of the U.S. Integrated Ocean Observing System (IOOS®), funded in part by National Oceanic and Atmospheric Administration (NOAA) Award #NA21NOS0120091. Hilo soundings: University of Wyoming. Maunakea discussion: Maunakea Weather Center, University of Hawaiʻi. Zone forecast archive: Iowa Environmental Mesonet. UV Index: US EPA / NOAA CPC. Map outlines: Natural Earth.</p>
+<p class="mc-dim">This guide describes the briefing as it is built today. If something on the page and here disagree,
+the page's own notes are the more recent.</p>
+</main></div>
+<script>
+(function(){
+  var btn = document.getElementById('theme-toggle'), root = document.documentElement;
+  function prefs(){ try { return JSON.parse(localStorage.getItem('prefs') || '{}') || {}; } catch (e) { return {}; } }
+  function isDark(){
+    var t = root.getAttribute('data-theme');
+    if (t) return t === 'dark';
+    return !!(window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+  }
+  function label(){ if (btn) btn.textContent = isDark() ? 'Light' : 'Dark'; }
+  function apply(theme){
+    if (theme === 'dark' || theme === 'light') root.setAttribute('data-theme', theme); else root.removeAttribute('data-theme');
+    label();
+    window.dispatchEvent(new Event('themechange'));
+  }
+  if (btn) btn.addEventListener('click', function(){
+    var next = isDark() ? 'light' : 'dark', p = prefs();
+    p.theme = next;
+    try { localStorage.setItem('prefs', JSON.stringify(p)); } catch (e) {}
+    apply(next);
+  });
+  // another page on the site changed it (e.g. the briefing around a framed map viewer)
+  window.addEventListener('storage', function(e){ if (e.key === 'prefs') apply(prefs().theme); });
+  if (window.matchMedia) {
+    var mq = matchMedia('(prefers-color-scheme: dark)');
+    var onChange = function(){ if (!root.getAttribute('data-theme')) apply(null); };
+    if (mq.addEventListener) mq.addEventListener('change', onChange); else if (mq.addListener) mq.addListener(onChange);
+  }
+  label();
+})();
+</script>
+</body></html>
