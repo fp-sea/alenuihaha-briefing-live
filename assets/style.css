@@ -1,0 +1,268 @@
+/* Marine Weather Briefing Styles */
+
+/* Green Navigation Controls */
+.nav-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.nav-links a {
+    background-color: #27ae60;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: #229954;
+    transform: translateY(-1px);
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #34495e;
+    border-left: 4px solid #3498db;
+    padding-left: 15px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: #2c3e50;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+h4 {
+    color: #34495e;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    color: #5d6d7e;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+/* Collapsible headers */
+.collapsible {
+    position: relative;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+    padding: 15px 15px 15px 40px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 10px 0 5px 0;
+    transition: all 0.3s ease;
+}
+
+.collapsible .toggle-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+    font-size: 1.2em;
+    width: 20px;
+    text-align: center;
+}
+
+.collapsible:hover {
+    background-color: #2980b9;
+    padding-left: 45px;
+}
+
+.collapsible.active {
+    background-color: #2980b9;
+    margin-bottom: 5px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+/* Content that can be toggled */
+.content {
+    padding: 15px 20px;
+    background-color: white;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    margin: 0 0 15px 0;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+/* Hide content by default */
+.content:not(.show) {
+    display: none;
+}
+
+/* Control buttons */
+.controls {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.btn {
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #229954;
+}
+
+/* Responsive table container */
+.table-container {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    margin: 15px 0;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    background: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 800px; /* Increased minimum width for better content fit */
+    table-layout: auto;
+    margin: 0;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+}
+
+/* Ensure images in tables are responsive */
+table img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+}
+
+.error-message {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Scrollable framed containers for long forecast text */
+.scrollable-container {
+    max-height: 420px;
+    overflow: auto;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    background: #fafafa;
+    padding: 10px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.scrollable-container pre {
+    margin: 0;
+    white-space: pre-wrap; /* preserve wrapping but keep newlines */
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+/* Improve readability of the marine local zones table */
+.marine-forecast-table th,
+.marine-forecast-table td {
+    text-align: left;
+    vertical-align: top;
+}
+
+/* Zone name/code styling */
+.marine-forecast-table .zone-name {
+    font-weight: 700;
+    color: #2c3e50;
+}
+.marine-forecast-table .zone-code {
+    color: #7b8a8b;
+    font-size: 0.9em;
+    margin-top: 2px;
+}
+
+/* OPC matrix header text visibility (override any global header styling) */
+.table-container.opc-matrix thead th,
+.table-container.opc-matrix thead th *,
+.table-container.opc-matrix thead th a:hover {
+    color: #222 !important;
+}
+.table-container.opc-matrix thead th {
+    background: #f1f3f5 !important;
+}
+
+/* Phones: keep everything inside the screen instead of scrolling sideways */
+.image-container img { max-width: 100% !important; height: auto; }
+@media (max-width: 700px) {
+    body { padding: 8px; }
+    .container { padding: 14px; }
+    /* Zone forecasts: stack the zone name above its forecast card */
+    table.marine-forecast-table { min-width: 0; }
+    .marine-forecast-table tr, .marine-forecast-table td { display: block; width: auto; }
+    .marine-forecast-table tr:first-child { display: none; }
+    .marine-forecast-table td:first-child { border-bottom: none; text-align: left; padding-bottom: 0; }
+}

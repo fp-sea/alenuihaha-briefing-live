@@ -1,0 +1,4 @@
+Valid (Latest):      2026-10-10 12:00 UTC / 2026-10-10 02:00 HST
+Valid (T-24h prior): 2026-10-09 12:00 UTC / 2026-10-09 02:00 HST
+
+One or both times had no detected lobes; trend limited.

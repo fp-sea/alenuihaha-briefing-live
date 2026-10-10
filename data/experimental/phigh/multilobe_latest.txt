@@ -1,0 +1,4 @@
+Latest valid: 2026-10-10 12:00 UTC / 2026-10-10 02:00 HST
+  Lobes detected: 2 (ranked by along-axis PGF)
+  [1] 47.75°N, 142.00°W | 1028.2 mb | Δ2@1026.2 | PGF 4.31 mb/1000 km (along 3.36 mb/1000 km) → Vg(total) 13.4 kt; Vg(along) 10.5 kt (PGF align cos=0.78) | angle eff 39°
+  [2] 36.25°N, 171.25°W | 1016.2 mb | Δ0@1016.2 | PGF 0.94 mb/1000 km (along 0.33 mb/1000 km) → Vg(total) 2.9 kt; Vg(along) 1.0 kt (PGF align cos=0.35) | angle eff 70°
