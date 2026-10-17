@@ -1,0 +1,124 @@
+FXHW60 PHFO 171326
+AFDHFO
+
+Area Forecast Discussion
+National Weather Service Honolulu HI
+326 AM HST Sat Oct 17 2026
+
+.SYNOPSIS...
+A high pressure system will linger north of the Hawaiian Islands
+producing moderate to breezy trades through the middle of next 
+week with minor fluctuations in speed. Brief pulses of enhanced 
+showers will roll through on the trades during this time period, 
+with showers favoring windward mountain areas in the overnight to
+early morning hours. 
+
+&&
+
+.DISCUSSION...
+This mornings satellite imagery shows the first of three easterly
+waves continues to slowly drift through the islands enhancing
+shower activity through the early morning hours. Two additional
+weak atmospheric waves will drift from east to west across the 
+islands on Saturday evening, and from late Sunday into Monday.
+Cloud and shower coverage will increase with each passing wave,
+favoring the overnight to early morning hours with the highest
+rainfall amounts falling over the windward mountain areas of each
+island. A wet trade wind pattern for sure with pulses of showers
+affecting each island through Monday. 
+
+A brief drying trend will develop by Tuesday as the last of the 
+easterly waves passes to the west of the state. Subsidence aloft 
+will lower temperature inversion heights with more stable trends 
+reducing clouds and shower activity lasting through Wednesday. 
+Expect the typical brief passing showers during the overnight 
+hours over the windward mountain areas.
+
+The long range forecast remains fairly uncertain as global models
+continue to struggle in finding a consistent solution with a
+passing short wave mid latitude trough passing just north of the 
+Hawaiian Islands. The model solutions have flipped over the past 
+few days with the American (GFS) model now showing a drier high 
+pressure ridge setting up north of the island chain, and the 
+European (ECMWF) model showing a cold core low, cut off from the 
+mid latitude westerly winds, deepening just north of the state. 
+The ECMWF solution would bring southeasterly to southerly winds 
+over the islands, drawing up unstable tropical moisture from the 
+deep tropics and triggering a period of wet weather across the 
+islands. While the American GFS model shows more typical easterly 
+trade wind weather with brief passing shower activity. 
+Unfortunately these large scale differences are impossible to 
+blend and we will have to wait a bit longer for our global weather
+model solutions to converge on a more consistent solution. Stay 
+tuned for changes to the long range forecast.
+
+&&
+
+.AVIATION...
+Moderate to breezy trades through the period. Low cigs and SHRA 
+should impact windward and mauka locations with some limited 
+spillover to leeward areas. MVFR conds possible in SHRA, 
+otherwise VFR prevails.
+
+AIRMET Sierra is in effect for mtn obsc for portions of all
+islands due to cld and SHRA. Conds should improve in the mid 
+morning hours.
+
+AIRMET Tango is in effect for mod turb lee of terrain. Expect this
+continue for a few days.
+
+&&
+
+.MARINE...
+High pressure north of the islands maintains fresh to strong
+trades well into next week. The Small Craft Advisory (SCA) 
+remains in effect for the typically windy waters around Maui 
+County and the Big Island and has been expanded westward to the 
+Kaiwi Channel beginning this morning. The SCA may need to be 
+further expanded in areal coverage tonight as trades undergo 
+modest strengthening.
+
+A rather short period NNW swell peaked overnight in the 5 to 6 
+foot range and will bring seasonable surf to N shorelines. This
+swell will slowly decline and shift to the N during the weekend as 
+a smaller overlapping NW swell moves through the area. Both swells
+lower on Monday and fade on Tuesday. Another small NW swell is 
+possible next Thursday or Friday.
+
+A declining small, medium period S swell will maintain below
+average surf along S shorelines through next week.
+
+Surf along E shores increases this weekend as trades strengthen. 
+In addition, expect some wrap of NNW swell for exposed shorelines 
+through at least today. Rough trade wind swell will produce above
+average surf for E shores through Tuesday before declining with 
+weakening trades mid-week.
+
+&&
+
+.FIRE WEATHER...
+Fire weather conditions will remain below critical fire thresholds
+into the first half of next week. Breezy winds and minimum
+humidity levels will not align to reach critical levels in any of
+our fire weather zones. The subsidence inversion heights near Maui
+and the Big Island will range from 9,000 to 10,000 feet elevation 
+today.
+
+&&
+
+.HFO WATCHES/WARNINGS/ADVISORIES...
+Small Craft Advisory until 6 AM HST Monday for Kaiwi Channel-
+Maui County Leeward Waters-Maalaea Bay-Pailolo Channel-
+Alenuihaha Channel-Big Island Leeward Waters-Big Island 
+Southeast Waters.
+
+&&
+
+$$
+
+DISCUSSION...Bohlin
+AVIATION...Walsh
+MARINE...JVC
+FIRE WEATHER...Bohlin
+
+
