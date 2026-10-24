@@ -1,0 +1,45 @@
+Expires:No;;080390
+FZHW51 PHFO 240116
+CWFHI1
+
+Generalized Statewide Coastal Waters Forecast for Hawaii
+National Weather Service Honolulu HI
+316 PM HST Fri Oct 23 2026
+
+.Synopsis for Hawaiian coastal waters...
+Aside from a brief increase in winds near Kauai and Oahu late 
+Saturday, gentle to moderate trade winds will prevail for the 
+next several days as a deep surface low passes far north of 
+Hawaii tonight then drifts about 800 to 900 nm northeast of the 
+islands Saturday through Monday. An area of low pressure is 
+expected to move over the islands from the southwest on Tuesday, 
+bringing variable winds and the potential for heavy showers and 
+thunderstorms. 
+
+$$
+
+Hawaiian waters within 40 nautical miles including the channels-
+
+.TONIGHT...East northeast winds 10 to 15 knots. Seas 3 to 5 feet.
+Scattered showers. 
+.SATURDAY...Northeast winds 10 to 15 knots. Seas 5 to 7 feet.
+Wave Detail: North northwest 3 feet at 13 seconds. Scattered
+showers. 
+.SATURDAY NIGHT...Northeast winds 10 to 20 knots. Seas 5 to
+8 feet. Wave Detail: North-northwest 5 feet at 12 seconds and
+south southwest 2 to 3 feet at 17 seconds. Scattered showers. 
+.SUNDAY THROUGH MONDAY...East northeast winds 10 to 15 knots. 
+Seas 4 to 8 feet. Detail: North northwest 4 to 6 feet at 11 
+seconds and south southwest 2 to 3 feet at 16 seconds. Isolated 
+showers.
+.TUESDAY AND WEDNESDAY...East winds 10 to 20 knots, except 
+variable winds to 15 kt Big Island waters. Seas 5 to 8 feet. 
+Numerous heavy showers and isolated thunderstorms. 
+
+Winds and seas higher in and near tstms.
+
+$$
+
+ 
+
+

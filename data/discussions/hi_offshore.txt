@@ -1,0 +1,50 @@
+FZHW60 PHFO 240309
+OFFHFO
+
+Offshore Waters Forecast for Hawaii
+National Weather Service Honolulu HI
+509 PM HST Fri Oct 23 2026
+
+Hawaiian offshore waters beyond 40 nautical miles out to 240
+nautical miles including the portion of the Papahanaumokuakea
+Marine National Monument east of French Frigate Shoals
+
+Seas given as significant wave height, which is the average height
+of the highest 1/3 of the waves. Individual waves may be more than
+twice the significant wave height.
+
+PHZ105-241145-
+509 PM HST Fri Oct 23 2026
+
+.Synopsis for the Hawaiian offshore waters...
+A deep surface low passing far N of region through tonight will 
+stall about 800 to 900 nm NE of Hawaii late Saturday through 
+Monday. A weak trough extending S of the low will move over NE 
+waters through tonight and dissipate over central waters by 
+Sunday. A second trough will linger over far SE waters through 
+tonight then move E of the offshore waters Saturday. An area of 
+low pressure is expected to form SW of the offshore waters late 
+Monday and move over the area Tuesday and Wednesday. 
+
+$$
+
+PHZ180-241145-
+Hawaiian Offshore Waters-
+509 PM HST Fri Oct 23 2026
+
+.TONIGHT...NW half, NE winds 10 to 20 kt, strongest far NW 
+waters. SE half, NE to E winds 10 to 15 kt. Seas 5 to 8 ft. 
+Isolated thunderstorms far SE waters. 
+.SATURDAY AND SATURDAY NIGHT...NW half, N to NE winds 15 to 20 
+kt. SE half, NE winds 10 to 15 kt. Seas 6 to 8 ft. Isolated 
+thunderstorms far SE waters.
+.SUNDAY...NE winds 10 to 15 kt. Seas 5 to 7 ft.
+.MONDAY...NE to E winds 10 to 15 kt. Seas 5 to 8 ft. Isolated 
+thunderstorms W of 160W late. 
+.TUESDAY and Wednesday...N of 20N, E winds 10 to 20 kt. S of 20N,
+S to SE winds 10 to 20 kt. Seas 6 to 8 ft. Isolated 
+thunderstorms. 
+
+$$
+
+

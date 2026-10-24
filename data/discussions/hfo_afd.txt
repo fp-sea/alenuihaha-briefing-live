@@ -1,0 +1,146 @@
+FXHW60 PHFO 240151
+AFDHFO
+
+Area Forecast Discussion
+National Weather Service Honolulu HI
+351 PM HST Fri Oct 23 2026
+
+.SYNOPSIS...
+Light to moderate trade winds are expected through the weekend. 
+Brief passing showers will drift into the islands on the 
+northeasterly trade winds, favoring windward and mountain areas 
+during the overnight to early morning hours. A more significant 
+change to our weather pattern continues to evolve for next week. 
+Deep tropical moisture moving across the state will bring the 
+potential for heavy rain and thunderstorms to most islands 
+starting around Tuesday and persisting through at least Thursday.
+
+&&
+
+.DISCUSSION...
+A surface trough just east of the state is visible on satellite 
+imagery this afternoon, with peripheral clouds and showers 
+tracking into east-facing slopes of the Big Island. This feature 
+will maintain enhanced cloud cover and isolated to scattered 
+showers across windward Big Island and Maui through tonight, 
+before drifting eastward and pulling its deeper moisture away from
+the state.
+
+Across the broader region, the surface pressure gradient remains 
+relaxed as a broad low to the north splits two highs, one anchored
+to its east and the other to its west. Consequently, light to 
+moderate trades will persist through Monday, allowing a hybrid 
+trade wind and localized land/sea breeze pattern to take hold. A 
+relatively dry air mass will keep skies mostly sunny to partly 
+cloudy over the smaller islands through this evening, with only 
+isolated windward showers moving in on the northeasterly flow. 
+Meanwhile, high-level cirrus will continue streaming overhead from
+the west-southwest within a strong subtropical jet streak. 
+Remnants of a dissipating frontal boundary trailing from the 
+northern low as it dips southeastward will brush the western 
+islands Saturday into Saturday night, providing a minor boost to 
+the northeasterly trade wind speeds and windward showers across 
+Kauai and Oahu.
+
+Farther west, a low will attempt to organize near 15N and the
+Dateline this weekend. The National Hurricane Center currently
+assigns this feature a low (20 percent) chance of developing into
+a tropical cyclone over the next 7 days. Regardless of tropical
+development, the primary concern for Hawaii is an increasing risk
+of heavy rainfall leading to flash flooding, and isolated
+thunderstorms next week. This developing low and a large 
+convergent band of deep tropical moisture to its east are expected
+to get swept up by a passing mid- to upper-level trough and drawn
+across the island chain. Global models continue to depict 
+precipitable water (PW) values exceeding 2.5 inches over portions 
+of the state late Tuesday through Wednesday, aligning with the 
+strongest upper- level jet support for ascent. However, 
+significant forecast uncertainty remains regarding exact timing, 
+rainfall amounts, and which locations will experience the heaviest
+totals. Current guidance leans toward heavy rain arriving as 
+early as Tuesday and potentially lingering through Thursday. While
+large-scale winds are not’t expected to be hazardous, gusty winds
+may be possible within these heavy showers or in any 
+thunderstorms that may develop.
+
+&&
+
+.AVIATION...
+A strong jet stream just to our north is forecast to shift 
+southward and could produce severe turbulence in and close to 
+SIGMET Romeo. Light to moderate turbulence is possible around 
+Kauai and Oahu between 24 and 32,000 feet. 
+
+Light trade winds will continue across most of the terminals where
+VFR conditions will prevail. PHTO will likely see passing showers
+later today and overnight which could produce brief MVFR ceilings
+and visibilities. 
+
+No AIRMETs in effect. 
+
+&&
+
+.MARINE...
+A surface low centered about 1000 nm north of islands will move 
+to the southeast through Saturday and will stall roughly 800 to
+900 nm northeast of Oahu late Saturday through Monday, keeping 
+the subtropical ridge just north of the area rather weak. Trade 
+winds will be at gentle to moderate strength during much of this 
+time, though a brief period of fresh northeast winds may accompany
+a shallow band of showers moving over Kauai and Oahu late Saturday.
+An area of low pressure is expected to move over the islands from
+the southwest Tuesday and Wednesday, bringing variable winds and 
+the potential for heavy showers and thunderstorms.
+
+Small surf will persist along north shores through early 
+Saturday. A moderate, medium-period north-northwest swell will 
+build late Saturday and produce surf around seasonal average 
+during its peak on Sunday. As this swell declines on Monday, a 
+long-period northwest swell will arrive. This swell will generate 
+moderate surf along north- and west-facing shores through 
+Wednesday. A small north- northeast swell will be possible during 
+the second half of next week.
+
+Small background level surf will prevail along south-facing 
+shores into early Saturday. A series of small overlapping south- 
+southwest swells will push surf back to around seasonal average 
+late Saturday into early next week. A larger south-southwest swell
+is possible Thursday and next Friday.
+
+Along east-facing shores, wind swell energy will be low through 
+much of the week, but a small medium-period northeast swell will 
+maintain small surf through tonight. Surf along most east facing 
+shores will be small through early next week, but areas exposed to
+wrapping northerly swells will experience periods of moderate 
+surf late Saturday through Monday and again during the second half
+of next week.
+
+&&
+
+.FIRE WEATHER...
+Light to moderate trade winds with mostly dry conditions over 
+leeward areas will continue to produce low to moderate fire 
+weather conditions through the weekend. Ample tropical moisture 
+will move in from the southwest sometime beginning Monday night or
+Tuesday, bringing a threat for heavy rain through at least 
+Thursday. As a result, fire weather concerns will be low through 
+most of next week. Inversion heights will range from 6,000 to 
+8,000 feet tonight into Saturday and will be relatively weak over 
+the eastern end of the state due to a weak trough just east of the
+Big Island.
+
+&&
+
+.HFO WATCHES/WARNINGS/ADVISORIES...
+None.
+
+&&
+
+$$
+
+DISCUSSION...Farris
+AVIATION...PECHACEK
+MARINE...Wroe
+FIRE WEATHER...Farris
+
+
