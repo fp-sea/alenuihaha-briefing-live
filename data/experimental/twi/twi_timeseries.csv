@@ -1,0 +1,5 @@
+valid_utc,base_m,top_m,thickness_m,deltaT_C,deltaTheta_K,deltaDry_C,deltaRH_pct,TII,LLW_925_850_kt,Risk,source
+2026-10-30 00:00,2143.0,2233.0,90.0,0.8000000000000007,1.791082142721109,2.700000000000001,15.0,1.1323181211323514,3.775,LOW,uwyo
+2026-10-30 12:00,,,,,,,,,9.05,LOW,uwyo
+2026-10-31 00:00,,,,,,,,,5.9,LOW,uwyo
+2026-10-31 12:00,,,,,,,,,7.8,LOW,uwyo

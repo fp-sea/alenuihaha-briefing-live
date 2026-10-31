@@ -1,0 +1,6 @@
+Forecast (+24h) valid: 2026-11-01 12:00 UTC / 2026-11-01 02:00 HST
+  Lobes detected: 4 (ranked by along-axis PGF)
+  [1] 36.00°N, 171.75°W | 1029.7 mb | Δ2@1027.7 | PGF 7.38 mb/1000 km (along 2.75 mb/1000 km) → Vg(total) 23.0 kt; Vg(along) 8.6 kt (PGF align cos=0.37) | angle eff 68°
+  [2] 29.00°N, 138.00°W | 1017.7 mb | Δ1@1016.7 | PGF 2.48 mb/1000 km (along 2.48 mb/1000 km) → Vg(total) 7.7 kt; Vg(along) 7.7 kt (PGF align cos=1.00) | angle eff 0°
+  [3] 31.25°N, 136.00°W | 1018.1 mb | Δ1@1017.1 | PGF 2.35 mb/1000 km (along 2.35 mb/1000 km) → Vg(total) 7.3 kt; Vg(along) 7.3 kt (PGF align cos=1.00) | angle eff 2°
+  [4] 31.50°N, 133.75°W | 1017.7 mb | Δ1@1016.7 | PGF 2.00 mb/1000 km (along 2.00 mb/1000 km) → Vg(total) 6.2 kt; Vg(along) 6.2 kt (PGF align cos=1.00) | angle eff 0°
