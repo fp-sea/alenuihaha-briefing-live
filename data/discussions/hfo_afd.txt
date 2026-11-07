@@ -1,0 +1,136 @@
+FXHW60 PHFO 071339
+AFDHFO
+
+Area Forecast Discussion
+National Weather Service Honolulu HI
+339 AM HST Sat Nov 7 2026
+
+.SYNOPSIS...
+A high pressure ridge to the north of the state will remain locked
+in place for the foreseeable future keeping Tropical Storm Pena
+moving in a westerly direction, passing well south of the 
+Hawaiian Islands. Expect a transition to breezy trade winds today
+with drier trends through the weekend, lasting into the first half
+of next week. The next best chance for increasing statewide shower
+activity arrives from next week Thursday to Friday as an unsettled
+cloud band associated with a dissipated cold front moves in from 
+the north.
+
+&&
+
+.DISCUSSION...
+The satellite imagery this morning shows more stable stratocumulus
+clouds east of the Hawaiian Islands riding in on the trade winds.
+These low level cloud features are more stable indicating stronger
+subsidence aloft and lower trade wind temperature inversion
+heights. This upstream stability validates our drying trends
+though Sunday as the upper low that was anchored west of the state
+dissipates and the deep tropical moisture surge associated with
+the passing easterly wave wanes. 
+
+Tropical Storm Pena remains roughly 525 miles south-southeast of 
+South Point on the Big Island of Hawaii. Pena will continue on a
+east to west track under the steering influence of the lingering 
+high pressure ridge north of the state keeping the tropical storm
+impacts well south of the island chain. Easterly winds may 
+approach wind advisory thresholds in some terrain favored areas. 
+However, at this time we are not expecting to issue wind 
+advisories as Tropical Storm Pena passes south of the state.
+
+Large scale atmospheric downward vertical motions (subsidence)
+over the next several days will cause the trade wind temperature
+inversion heights to fall, lowering cloud heights, and limiting
+shower activity from later today through Wednesday. Temperature
+inversion heights will range from 6,000 to 7,000 feet elevation
+during this time period, high enough for brief passing showers
+mainly along windward mountain ranges, favoring the overnight to 
+early morning hours. Rainfall amounts over Maui and the Big Island
+will trend lower as compared to the past several days.
+
+The next best chance for increasing statewide shower activity 
+arrives from next week Thursday to Friday as an unsettled cloud 
+band associated with a dissipated cold front moves in from the 
+north. Expect northern and eastern slopes of all islands to see
+additional beneficial rainfall as breezy easterly trade winds 
+lift these unsettled clouds up island mountain slopes. 
+
+&&
+
+.AVIATION...
+Moderate to locally breezy trade winds will persist through the 
+period. Pockets of higher moisture riding in on the trades early
+this morning will guarantee occasional lower decks falling to low
+VFR or MVFR flight categories along with more frequent windward 
+showers especially at Hilo (PHTO). Better organized rain clusters
+passing over windward terminals this morning will produce more 
+frequent periods of MVFR in both lowered ceiling and visibility. 
+Conditions will begin to slowly improve this afternoon as drier 
+air moves in from the east.
+
+AIRMET Sierra is in effect for mountain obscuration across
+windward Big Island, Maui, Molokai and Oahu. Sierra will likely 
+will allowed to expire by noon with lifting decks to VFR levels. 
+
+AIRMET Tango remains in effect for moderate turbulence within the
+lee of higher terrain.
+
+&&
+
+.MARINE...
+Fresh to strong trade winds will prevail through through the
+remainder of this weekend as high pressure dominates north of the
+state and Tropical Storm Pena moves westward, several hundred 
+miles south of the state. The Small Craft Advisory (SCA) has been 
+extended through Sunday night for most Hawaiian Waters due to a 
+combination of winds and elevated seas. The Big Island windward 
+waters were dropped due to wind speed guidence falling just below
+SCA criteria. Winds are expected to ease slightly late Monday and
+Tuesday as the ridge to our north erodes and Pena moves away to 
+the southwest. The SCA will likely be trimmed back to the typical 
+windy waters around Big Island and Maui at that time. Trade winds 
+are expected to strengthen again on Wednesday.
+
+A small to moderate, medium period, northwest swell will continue
+to affect north and west facing shores today. A larger 
+reinforcing medium- period swell out of the north- northwest (325
+to 340 degree) will arrive by late this evening and fill in 
+tonight. Surf could reach advisory thresholds during the peak of 
+the swell late tonight into Sunday morning. Another large 
+northwest to north- northwest swell is set to arrive late 
+Wednesday into Thursday.
+
+A small south-southwest swell should produce surf slightly above 
+seasonal average today. A tiny pulse from the south may maintain 
+south shore surf near seasonal average Sunday and Monday, followed
+by background level surf through the remainder of the week.
+
+Rough surf along east-facing shores will hold at or above 
+seasonal average through this weekend. Surf will decrease slightly
+by early next week as trades begin to ease. 
+
+&&
+
+.FIRE WEATHER...
+A high pressure ridge to the north and Tropical Storm Pena passing
+south of the islands will keep breezy trade winds in the forecast
+with decreasing humidity levels. Fire weather conditions will 
+remain below critical thresholds into next week. Temperature 
+inversion heights today near Maui and the Big Island will drop
+into the 6,500 to 7,500 foot elevation range.
+
+&&
+
+.HFO WATCHES/WARNINGS/ADVISORIES...
+Small Craft Advisory until 6 AM HST Monday for most Hawaiian
+coastal waters and channels.
+
+&&
+
+$$
+
+DISCUSSION...Bohlin
+AVIATION...Blood
+MARINE...JT
+FIRE WEATHER...Bohlin
+
+
