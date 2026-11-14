@@ -1,0 +1,121 @@
+FXHW60 PHFO 141333
+AFDHFO
+
+Area Forecast Discussion
+National Weather Service Honolulu HI
+333 AM HST Sat Nov 14 2026
+
+.SYNOPSIS...
+Surface high pressure northwest of the Hawaiian Islands will 
+slowly slide east over the next several days. Passing showers are 
+possible over windward and mauka areas during this time period, 
+mainly during the overnight to early morning hours. The next best 
+chance for statewide rainfall should arrive Tuesday and Wednesday 
+as increased low level moisture arrives with an old cold front 
+drifting into the region.
+
+&&
+
+.DISCUSSION...
+Radar indicates scattered light showers across windward and mauka
+areas, and the open waters early this morning. Some continued
+uptick in coverage is expected this morning, but showers will
+weaken outside of windward areas this afternoon. 
+
+Mid level ridging will remain centered overhead through the middle
+of next week. Surface high pressure northwest of the islands today
+will slowly slide east to our northeast Sunday night. An upper 
+level low will approach from the northwest Tuesday. In addition, a 
+band of low level moisture associated with an old frontal 
+boundary will move across the state from the east and northeast. 
+These features will lead to an increased chance for showers
+midweek. Maintained very high PoPs for windward and mauka
+locations, but even leeward areas may see a few showers at times. 
+
+The upper low will dissipate as it finally reaches Hawaii around
+Thursday. Weak, broad ridging may build somewhat to our west late
+week and next weekend. This flow pattern may allow for more old 
+fronts to pass through the state, but the timing of these is of 
+low confidence at this range. 
+
+&&
+
+.AVIATION...
+Trade winds will continue with brief periods of passing showers
+over windward and mountain areas favoring the overnight to early
+morning hours. Improving weather trends during the daylight hours.
+
+AIRMET Tango remains in effect for low level moderate turbulence 
+over and downwind of island mountains. 
+
+&&
+
+.MARINE...
+High pressure north of Hawaii will drive fresh to locally strong
+trade winds today. A new high pressure system building north of
+the islands will cause trade winds to strengthen back to strong
+levels for most waters by tonight. Therefore, the Small Craft 
+Advisory (SCA) remains in effect for the typical windy waters near
+Maui County and the Big Island today, with an expansion to cover 
+all coastal waters tonight. Winds will diminish somewhat on Sunday
+as the high shifts quickly to the northeast, but a new north swell
+will push seas above 10 feet for exposed waters which will prompt
+an extension of the SCA for at least some zones beyond just the 
+typically windy ones (likely all windward zones). Next week will 
+see continuing fresh to strong trades with some minor fluctuations
+each day. 
+
+A moderate, medium-period north-northwest swell will continue to 
+decline today. A new small, long-period north-northwest swell will 
+help support small surf through the day before the arrival of a more 
+significant north swell late Saturday night. This moderate, long-
+period north swell will push surf to near advisory levels on Sunday 
+for north and west-facing shores. This swell, at around 350
+degrees, looks to peak around 6 feet, 15 seconds Sunday afternoon
+and evening, which may lead to surges into north-facing harbors. 
+Surf to at least moderate levels, along with harbor surge 
+potential, will last into Monday before the swell really begins to
+fade on Tuesday. A small to moderate northwest swell is then 
+possible by next weekend.
+
+Surf along east-facing shores will remain rough and choppy due to
+the fresh trade winds and increase tonight into Sunday with
+strengthening trades. South shore surf will stay tiny to small for 
+the next few days, then a small long-period swell could boost surf 
+heights towards the end of next week.
+
+&&
+
+.FIRE WEATHER...
+Fire weather conditions will remain below critical, limited by 
+wind speeds for most areas and by higher minimum humidity levels 
+for the higher elevation zones that reach wind thresholds. Wind 
+speeds will increase into the moderate to breezy levels later 
+today, lasting into early next week. Temperature inversion heights
+near Maui and the Big Island will range from 6,500 to 7,500 feet 
+elevation today.
+
+&&
+
+.HFO WATCHES/WARNINGS/ADVISORIES...
+Small Craft Advisory from 6 PM this evening to 6 AM HST Sunday 
+for Big Island Windward Waters-Kaiwi Channel-Kauai Channel-Kauai 
+Leeward Waters-Kauai Northwest Waters-Kauai Windward Waters-Maui 
+County Leeward Waters-Maui County Windward Waters-Oahu Leeward 
+Waters-Oahu Windward Waters.
+
+Small Craft Advisory until 6 AM HST Sunday for Alenuihaha 
+Channel-Big Island Leeward Waters-Big Island Southeast Waters-
+Maalaea Bay-Pailolo Channel.
+
+
+&&
+
+$$
+
+DISCUSSION...Borghoff
+AVIATION...Bohlin
+MARINE...Quesada
+FIRE WEATHER...Borghoff
+
+
