@@ -1,0 +1,45 @@
+FZHW60 PHFO 211512
+OFFHFO
+
+Offshore Waters Forecast for Hawaii
+National Weather Service Honolulu HI
+512 AM HST Sat Nov 21 2026
+
+Hawaiian offshore waters beyond 40 nautical miles out to 240
+nautical miles including the portion of the Papahanaumokuakea
+Marine National Monument east of French Frigate Shoals
+
+Seas given as significant wave height, which is the average height
+of the highest 1/3 of the waves. Individual waves may be more than
+twice the significant wave height.
+
+PHZ105-212215-
+512 AM HST Sat Nov 21 2026
+
+.Synopsis for the Hawaiian offshore waters...
+A 1033 mb high far NNE of the islands will move SE and weaken 
+through Sunday. A surface ridge will move across far N offshore 
+waters Monday and Tuesday and will be displaced by a front moving 
+across NW waters Wednesday. 
+
+$$
+
+PHZ180-212215-
+Hawaiian Offshore Waters-
+512 AM HST Sat Nov 21 2026
+
+.TODAY AND TONIGHT...NE winds 15 to 25 kt, strongest S 
+of 23N. Seas 8 to 10 ft. 
+.SUNDAY...S of 22N, E winds 15 to 20 kt. N of 22N, NE winds 10 to
+15 kt. Seas 6 to 10 ft, highest S of 22N.
+.MONDAY...S of 21N, NE to E winds 15 to 20 kt. N of 21N, N to NE 
+winds 10 to 15 kt. Seas 5 to 9 ft, highest far SW waters. 
+.TUESDAY...S of 22N, E winds 10 to 15 kt. N of 22N, variable 
+winds to 15 kt. Seas 6 to 13 ft, highest N of 21N. 
+.WEDNESDAY...Front moving across NW waters. NW half, SW winds 15
+to 20 kt S of front and NW winds 20 to 25 kt N of front. SE half,
+SE to S winds 10 to 15 kt. Seas 8 to 18 ft, highest N of front. 
+
+$$
+
+

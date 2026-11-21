@@ -1,0 +1,2 @@
+time_tag,rank,center_lat,center_lon_e,center_lon_signed,center_lon_hem,central_pressure_hPa,best_delta_hPa,chosen_isobar_hPa,area_km2,orientation_deg,dist_to_channel_km,channel_pressure_hPa,gradient_hPa_per_1000km,geostrophic_kt,gradient_dir_deg,axis_effective_angle_deg,alignment_eff,effective_forcing_index,pgf_along_hPa_per_1000km,alignment_flag
+t+24h,1,30.5,180.0,180.0,E,1027.00390625,0.0,1027.00390625,,,2651.535006306731,1017.3456316787109,3.642521991343389,11.339435924511895,109.22655973761567,43.22655973761567,0.7286512239666506,2.654128107317802,2.654128107317802,

@@ -1,0 +1,18 @@
+Valid (Latest):      2026-11-21 12:00 UTC / 2026-11-21 02:00 HST
+Valid (T-24h prior): 2026-11-20 12:00 UTC / 2026-11-20 02:00 HST
+
+[Latest snapshot]
+  High center:      36.50°N, 151.25°W  |  1030.5 mb
+  Channel pressure: 1017.6 mb
+  High→Channel:     1842 km toward 196°
+  Gradient:         6.98 mb/1000 km
+  Geos wind:        21.7 kt
+
+[T-24h snapshot]
+  High center:      39.00°N, 160.50°W  |  1034.6 mb
+  Channel pressure: 1017.2 mb
+  High→Channel:     2107 km toward 167°
+  Gradient:         8.25 mb/1000 km
+  Geos wind:        25.7 kt
+
+Δ Central Pressure: -4.1 mb
